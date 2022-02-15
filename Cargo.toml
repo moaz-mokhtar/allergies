@@ -1,0 +1,5 @@
+[package]
+edition = "2021"
+name = "exp_allergies_challenge"
+authors = ["Moaz bin Mohamed Mokhtar <moaz.mokhtar@gmail.com>"]
+version = "1.1.0"
